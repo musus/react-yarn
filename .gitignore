@@ -107,5 +107,7 @@ Temporary Items
 
 
 package-lock.json
+yarn.lock
 .npmrc
 .idea
+dist/
