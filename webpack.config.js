@@ -5,7 +5,7 @@ const config = {
 	entry: './src/app.js',
 	output: {
 		path: path.resolve(__dirname, 'dist'),
-		filename: 'app.jn'
+		filename: 'app.js'
 	},
 	module: {
 		rules:[{
